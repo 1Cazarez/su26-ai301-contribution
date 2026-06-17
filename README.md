@@ -45,13 +45,13 @@ passing it to the email template
 
 ### Steps to Reproduce
 
-1. [Step 1]
-2. [Step 2]
-3. [Observed result]
+1. [Step 1] Ran the code in my branch
+3. [Step 2]
+4. [Observed result]
 
 ### Reproduction Evidence
 
-- **Commit showing reproduction:** [Link to commit in your fork]
+- **Commit showing reproduction:** [[Link to commit in your fork]](https://github.com/1Cazarez/parabol)
 - **Screenshots/logs:** [If applicable]
 - **My findings:** [What you discovered during reproduction]
 
