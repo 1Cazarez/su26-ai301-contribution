@@ -18,7 +18,7 @@ Since this is a ui rendering component, and I have relevant experience I wanted 
 ### Problem Description
 
 [In your own words, what's broken or missing?]
-When a user gets their meeting summary email, they information includes projects that aren't theirs, and they need to scan the whole list.
+Looking for a new issue
 
 ### Expected Behavior
 
